@@ -24,3 +24,12 @@ nav div:not(:first-child){
 aside {
     flex-direction: column;
 }
+
+a {
+    color: #444;
+    font-style: normal;
+}
+
+.size {
+    width: 200px;
+}
